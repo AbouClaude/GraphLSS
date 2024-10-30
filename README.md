@@ -1,5 +1,5 @@
 # GraphLSS
-Public repository of our paper "*GraphLSS: Integrating Lexical, Structural, and Semantic Features for Long Document Extractive Summarization*" 
+Public repository of our paper ["*GraphLSS: Integrating Lexical, Structural, and Semantic Features for Long Document Extractive Summarization*"](https://arxiv.org/abs/2410.21315) 
 
 ### How to create GraphLSS document representation? 
 
